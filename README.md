@@ -3,7 +3,6 @@
 
 In this portfolio I am sharing some of the projects I completed for the MIT xPRO Professional Certificate in Data Engineering.
 
-- [Portfolio](#portfolio)
   - [City bus transit data application](#city-bus-transit-data-application)
   - [US retail sales data - Extract-Transform-Load and data analyses](#us-retail-sales-data---extract-transform-load-and-data-analyses)
   - [Predicting housing prices using linear and log-linear regression](#predicting-housing-prices-using-linear-and-log-linear-regression)
