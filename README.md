@@ -6,7 +6,6 @@ In this portfolio I am sharing some of the projects I completed for the MIT xPRO
   - [City bus transit data application](#city-bus-transit-data-application)
   - [US retail sales data - Extract-Transform-Load and data analyses](#us-retail-sales-data---extract-transform-load-and-data-analyses)
   - [Predicting housing prices using linear and log-linear regression](#predicting-housing-prices-using-linear-and-log-linear-regression)
-  - [Flask web app with JSON web tokens for authentication and authorization](#flask-web-app-with-json-web-tokens-for-authentication-and-authorization)
 
 ## City bus transit data application 
 ___using Python, Jupyter Notebook, Docker, MySQL, MongoDB, Maven, Debezium, Mapbox, Flask, APIs___
